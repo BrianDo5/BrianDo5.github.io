@@ -1,2 +1,2 @@
 # Brian Do
-Assigntment 1 - Personal Website
+Assignment 1 - Personal Website
