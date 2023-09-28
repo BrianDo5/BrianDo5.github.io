@@ -1,2 +1,2 @@
-# CISC-375-assignment1
+# Brian Do
 Assigntment 1 - Personal Website
